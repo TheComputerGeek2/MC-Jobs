@@ -4,7 +4,7 @@ version: 3.1.9
 author: RathelmMC
 website: http://dev.bukkit.org/server-mods/mcjobs/
 dev-url: http://dev.bukkit.org/server-mods/mcjobs/
-
+softdepend: [mcMMO, WorldGuard, LogBlock, Towny]
 
 commands:
     mcjobs:
